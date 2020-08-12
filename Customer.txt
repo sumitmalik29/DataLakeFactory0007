@@ -1,0 +1,3 @@
+Cust_Id,FirstName,LastName,Gender
+3,Kate,Winslet,F
+4,Michael,Jordan,M
